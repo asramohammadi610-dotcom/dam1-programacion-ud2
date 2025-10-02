@@ -1,5 +1,8 @@
 import java.util.Scanner;
 
+import utilidades.ProcesadorTexto;
+import utilidades.Usuario;
+
 public class DatosUsuario {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
